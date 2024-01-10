@@ -1,4 +1,4 @@
-the kitty config
+the kitty config for MacOS
 
 clone it to ~/.config
 
